@@ -1,5 +1,5 @@
 #  About Me:
-Aspiring Data Analyst with hands-on practice in data cleaning, basic analysis, and visualization. Certified in Google Data Analytics, with working knowledge of SQL, Python, Excel, Tableau, and Power BI. Enthusiastic about learning through real-world data projects and passionate about using data to support smarter decisions. Eager to grow in a collaborative, data-driven environment.
+Aspiring Data Analyst with hands-on practice in data cleaning, basic analysis, and visualization. Certified in Google Data Analytics, with working knowledge of SQL, Python, Excel and Power BI. Enthusiastic about learning through real-world data projects and passionate about using data to support smarter decisions. Eager to grow in a collaborative, data-driven environment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishkarsh-arya-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanishkarsh45@gmail.com) 
